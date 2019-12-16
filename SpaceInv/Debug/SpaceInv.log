@@ -1,0 +1,14 @@
+﻿  stage.c
+c:\users\0000000\source\repos\spaceinv\spaceinv\stage.c(43): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\0000000\source\repos\spaceinv\spaceinv\stage.c(47): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+c:\users\0000000\source\repos\spaceinv\spaceinv\stage.c(319): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\0000000\source\repos\spaceinv\spaceinv\stage.c(313): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\0000000\source\repos\spaceinv\spaceinv\stage.c(330): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+c:\users\0000000\source\repos\spaceinv\spaceinv\stage.c(364): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\0000000\source\repos\spaceinv\spaceinv\stage.c(433): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\0000000\source\repos\spaceinv\spaceinv\stage.c(443): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  SpaceInv.vcxproj -> C:\Users\0000000\source\repos\SpaceInv\Debug\SpaceInv.exe
