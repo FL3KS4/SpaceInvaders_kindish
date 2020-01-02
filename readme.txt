@@ -1,1 +1,1 @@
-doinstalovat knihovny pro SDL + SDL_image.
+Install libraries for  SDL + SDL_image.
